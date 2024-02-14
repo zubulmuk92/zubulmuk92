@@ -16,7 +16,7 @@
 
 # Some stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zubulmuk92&theme=github-dark)]
+![GitHub Streak](https://streak-stats.demolab.com?user=zubulmuk92&theme=github-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubulmuk92&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubulmuk92&layout=compact&theme=vision-friendly-dark)
 
