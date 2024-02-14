@@ -13,3 +13,7 @@
 # What I am learning right now
 - Advanced electronics
 - Mobile application development ( IOS / Android )
+
+# Some stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zubulmuk92)](https://git.io/streak-stats)
