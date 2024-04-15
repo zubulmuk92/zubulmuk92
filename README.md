@@ -1,14 +1,14 @@
 # Hi there 👋
-💻 I am a web application and enterprise software developer. 
+⚡ I work in electronics research and development.
 <br>
 <br>
-🪙 Web3 dApp developer
+🪙 Web3 dApp developer.
 <br>
 <br>
 🕹 I also develop scripts for some video games in my spare time.
 <br>
 <br>
-💼 I am studying electrical engineering and industrial computer science at the university
+💼 I am studying electrical engineering and industrial computer science at the university.
 
 # What I am learning right now
 - Advanced electronics
