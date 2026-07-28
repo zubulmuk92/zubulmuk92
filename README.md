@@ -49,15 +49,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Metrics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=zubulmuk92&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
+<!-- Graphique d'activité Ashutosh00710 (Extrêmement fiable) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zubulmuk92&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 
 <br><br>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zubulmuk92&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zubulmuk92&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+<!-- Visualisateur de langues alternatif -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zubulmuk92&theme=tokyonight" width="100%" alt="Profile Summary" />
 
 </div>
