@@ -57,7 +57,16 @@
 
 <div align="center">
 
-<!-- Graphique d'activité Ashutosh00710 (Extrêmement fiable) -->
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br><br>
+
+<!-- Graphique d'activité Ashutosh00710 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zubulmuk92&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 
 <br><br>
