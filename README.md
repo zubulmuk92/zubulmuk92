@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Mechatronics+Engineering+Student;Electronics+R%26D+Developer;Web3+%26+Full-Stack+Developer;Game+Scripting+%26+Automation)](https://git.io/typing-svg)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=zubulmuk92&color=61afef&style=flat-square&label=PROFILE+VIEWS)
+
 ---
 
 </div>
