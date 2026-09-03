@@ -102,12 +102,13 @@
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2E3A?style=flat-square&logo=micropython&logoColor=white)
 ![I2C / SPI / UART](https://img.shields.io/badge/I%C2%B2C%20%2F%20SPI%20%2F%20UART-5C6BC0?style=flat-square)
 ![CAN bus](https://img.shields.io/badge/CAN%20bus-455A64?style=flat-square)
+![Modbus](https://img.shields.io/badge/Modbus-6D4C41?style=flat-square)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
 **Electronics &amp; CAD**
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square)
+![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=flat-square&logo=proteus&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-0B5394?style=flat-square)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E11B22?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F16529?style=flat-square&logo=autodesk&logoColor=white)
