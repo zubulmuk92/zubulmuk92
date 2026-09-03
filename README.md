@@ -15,12 +15,12 @@
 <table>
 <tr>
 
-<td width="25%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <a href="https://zubulmuk92.github.io/SidVault/">
-<img src="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/HEAD/assets/sidvault.png" width="76" alt="">
+<img src="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/HEAD/assets/sidvault.png" width="80" alt="">
 </a>
 <h3>SidVault</h3>
-<p>Password manager for Windows. One encrypted file on your disk — no server, no account, no network calls. The format is documented and ships with an independent reference reader.</p>
+<p>Password manager for Windows. One encrypted file on your disk — no server, no account, no network calls. The format is documented, with an independent reference reader.</p>
 <p><sub><code>Rust</code> · <code>Argon2id</code> · <code>TOTP</code></sub></p>
 <p>
 <a href="https://zubulmuk92.github.io/SidVault/"><b>Website</b></a> ·
@@ -28,9 +28,9 @@
 </p>
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <a href="https://zubulmuk92.github.io/SidSoundboard/">
-<img src="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/HEAD/assets/sidsoundboard.png" width="76" alt="">
+<img src="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/HEAD/assets/sidsoundboard.png" width="80" alt="">
 </a>
 <h3>SidSoundboard</h3>
 <p>Soundboard for Windows that costs zero CPU while playing. Effects are pre-rendered once, so the headset and the virtual cable play the exact same file.</p>
@@ -41,29 +41,32 @@
 </p>
 </td>
 
-<td width="25%" align="center" valign="top">
+</tr>
+<tr>
+
+<td width="50%" align="center" valign="top">
 <a href="https://sid-crazystats.vercel.app">
-<img src="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/HEAD/assets/sidcrazystats.png" width="76" alt="">
+<img src="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/HEAD/assets/sidcrazystats.png" width="80" alt="">
 </a>
 <h3>SidCrazyStats</h3>
-<p>Real-time multiplayer quiz. Rooms where you and your friends compete on genuinely odd facts from geography, history and politics.</p>
+<p>Real-time multiplayer quiz. Rooms where you and your friends compete on genuinely odd facts drawn from geography, history and politics.</p>
 <p><sub><code>React</code> · <code>Supabase</code> · <code>Realtime</code></sub></p>
 <p>
 <a href="https://sid-crazystats.vercel.app"><b>Play</b></a> ·
-<img src="https://img.shields.io/badge/source-private-6E7681?style=flat-square" alt="private source">
+<sub>private source</sub>
 </p>
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <a href="https://sid-imitateur.vercel.app">
-<img src="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/HEAD/assets/sidimmitateur.png" width="76" alt="">
+<img src="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/HEAD/assets/sidimmitateur.png" width="80" alt="">
 </a>
 <h3>SidImmitateur</h3>
 <p>Multiplayer party game. Clip a moment out of a YouTube video, everyone tries to reproduce it, and the room decides who got closest.</p>
 <p><sub><code>React</code> · <code>Socket.IO</code> · <code>Node</code></sub></p>
 <p>
 <a href="https://sid-imitateur.vercel.app"><b>Play</b></a> ·
-<img src="https://img.shields.io/badge/source-private-6E7681?style=flat-square" alt="private source">
+<sub>private source</sub>
 </p>
 </td>
 
