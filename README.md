@@ -73,44 +73,46 @@
 </tr>
 </table>
 
-<details>
-<summary>Earlier repositories</summary>
-
-<br>
-
-| Project | Description | Stack |
-|---|---|---|
-| [Elec-App](https://github.com/zubulmuk92/Elec-App) | Web toolkit for electronics students | `JavaScript` |
-| [Meteo-App](https://github.com/zubulmuk92/Meteo-App) | Weather lookup web app | `JavaScript` |
-| [connexion-steam-php](https://github.com/zubulmuk92/connexion-steam-php) | Steam API authentication | `PHP` |
-| [zbLSPD](https://github.com/zubulmuk92/zbLSPD) | Optimised LSPD script, RageUI V2 | `Lua` · FiveM |
-| [menuExempleRageUIV2](https://github.com/zubulmuk92/menuExempleRageUIV2) | RageUI V2 menu example, from my YouTube tutorial series | `Lua` · FiveM |
-| [zbNoel](https://github.com/zubulmuk92/zbNoel) · [zbHalloween](https://github.com/zubulmuk92/zbHalloween) | Seasonal event scripts | `Lua` · FiveM |
-
-</details>
-
-<br>
-
 ## Stack
 
 **Robotics &amp; Simulation**
 
 ![ROS](https://img.shields.io/badge/ROS%20%2F%20ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat-square&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat-square)
+![MoveIt](https://img.shields.io/badge/MoveIt-0A7BBB?style=flat-square)
+![RViz](https://img.shields.io/badge/RViz-4B6A88?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 ![Simulink](https://img.shields.io/badge/Simulink-E16737?style=flat-square)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E11B22?style=flat-square&logo=dassaultsystemes&logoColor=white)
-![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=ansys&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Embedded &amp; Hardware**
+**Embedded Systems**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2E7D32?style=flat-square)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2E3A?style=flat-square&logo=micropython&logoColor=white)
+![I2C / SPI / UART](https://img.shields.io/badge/I%C2%B2C%20%2F%20SPI%20%2F%20UART-5C6BC0?style=flat-square)
+![CAN bus](https://img.shields.io/badge/CAN%20bus-455A64?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+
+**Electronics &amp; CAD**
+
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square)
+![LTspice](https://img.shields.io/badge/LTspice-0B5394?style=flat-square)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E11B22?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-F16529?style=flat-square&logo=autodesk&logoColor=white)
+![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=ansys&logoColor=black)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=labview&logoColor=black)
 
 **Software &amp; Web**
 
