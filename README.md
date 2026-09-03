@@ -1,11 +1,14 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/HEAD/assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/HEAD/assets/banner-light.png">
+  <img src="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/HEAD/assets/banner-dark.png" width="100%" alt="zubulmuk92 — mechatronics, embedded, software">
+</picture>
+
 <div align="center">
-
-# zubulmuk92
-
-**Mechatronics Engineering Student** · Electronics R&D · Full-Stack Developer
-
-<sub>France · Robotics and embedded systems · Desktop software in Rust &amp; Python · Real-time web apps</sub>
-
+<sub>
+Mechatronics engineering student in France. I build things that cross the line between
+hardware and software — and ship them as products, not demos.
+</sub>
 </div>
 
 <br>
@@ -153,4 +156,15 @@
   <img alt="Contribution graph" src="https://raw.githubusercontent.com/zubulmuk92/zubulmuk92/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
+</div>
+
+<br>
+
+<div align="center">
+<sub>
+<a href="https://zubulmuk92.github.io/SidVault/">SidVault</a> ·
+<a href="https://zubulmuk92.github.io/SidSoundboard/">SidSoundboard</a> ·
+<a href="https://sid-crazystats.vercel.app">SidCrazyStats</a> ·
+<a href="https://sid-imitateur.vercel.app">SidImmitateur</a>
+</sub>
 </div>
